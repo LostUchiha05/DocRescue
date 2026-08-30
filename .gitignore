@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+outputs/
+uploads/
+.paddleocr/
+.paddlex/
+node_modules/
+dist/
